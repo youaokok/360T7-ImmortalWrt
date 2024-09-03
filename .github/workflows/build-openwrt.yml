@@ -3,7 +3,7 @@
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
-#https://github.com/padavanonly/immortalwrt-mt798x    https://github.com/youaokok/immortalwrt-mt798x
+#https://github.com/padavanonly/immortalwrt-mt798x    https://github.com/youaokok/immortalwrt-mt798x  https://github.com/hanwckf/immortalwrt-mt798x
 # https://github.com/P3TERX/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
 #
@@ -11,7 +11,7 @@
 name: Build OpenWrt
 
 env:
-  REPO_URL: https://github.com/youaokok/immortalwrt-mt798x
+  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 360t7.config
